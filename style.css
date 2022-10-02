@@ -15,14 +15,14 @@ section {
 
 #weather {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #a4ff88;
+  background-color: #aab2bd;
   min-height: 100vh;
 }
 #weather .box {
-  background-color: #ffffff;
+  background-color: #e9edc9;
+  border: 1px solid #000000;
   padding: 40px 60px;
   border-radius: 20px;
-  box-shadow: 20px 20px #9b9b9b;
 }
 #weather .box h1 {
   font-weight: 700;
@@ -41,12 +41,13 @@ section {
   margin: 10px 0;
 }
 #weather .box #btn {
-  background-color: #5ec23f;
+  background-color: #ffffff;
   padding: 15px;
   border-radius: 20px;
+  border: 1px solid #000000;
   width: 120px;
   margin-left: 65px;
 }
 #weather .box #btn:hover {
-  background-color: #9b9b9b;
+  background-color: #aab2bd;
 }/*# sourceMappingURL=style.css.map */
